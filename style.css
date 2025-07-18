@@ -32,7 +32,7 @@ a{
 }
 a:hover{
     color: #00FFFF;
-    text-decoration: underline;
+    background-color: #fc677642;
 }
 a:visited{
     color: #B0B0B0;
@@ -53,7 +53,7 @@ h2{
     background-color: #f0959d34;
 }
 main{
-    width: 800px;
+    width: 70%;
     margin: auto;
     background-color: 	#1C252C;
     color: #ECE8E1;
@@ -64,10 +64,18 @@ footer{
 img{
     margin: auto;
     border: 5px solid black;
+    display: block;
+    height: auto;
+    max-width: 100%;
 
 }
 footer{
     color:aliceblue;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
+}
+iframe{
+    max-width: 100%;
+    display: block;
+    margin: auto;
 }
