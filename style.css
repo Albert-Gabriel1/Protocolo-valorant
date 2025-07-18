@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+header{
+    font-family: "Anton", sans-serif;
+  font-weight: 100;
+  font-size: 25pt;
+  font-style: normal;
+  text-align: center;
+  background-color: #0F1923;
+  color:aliceblue;
+  margin: auto;
+  border-radius: 10px;
+  border: 10px #FF4655 solid;
+}
+header > h2{
+    color: #5B5B5B;
+}
+header > nav > a{
+    margin: 10px;
+    padding: 5px;
+}
+header > nav{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: #FF4655;
+}
+a:hover{
+    color: #00FFFF;
+    text-decoration: underline;
+}
+a:visited{
+    color: #B0B0B0;
+}
+article{
+    border: 10px solid black;
+    padding: 10px;
+    margin: 6px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+h2{
+    text-align: center;
+}
