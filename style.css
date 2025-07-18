@@ -25,6 +25,8 @@ header > nav > a{
 }
 header > nav{
     text-align: left;
+    padding: 2px;
+    margin: 3px;
 }
 a{
     text-decoration: none;
