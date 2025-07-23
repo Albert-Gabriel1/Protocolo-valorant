@@ -21,12 +21,13 @@ header > h2{
 }
 header > nav > a{
     margin: 10px;
-    padding: 5px;
+    padding: 1px;
+    transition-duration: .6s;
 }
 header > nav{
     text-align: left;
     padding: 2px;
-    margin: 3px;
+    margin: auto;
 }
 a{
     text-decoration: none;
