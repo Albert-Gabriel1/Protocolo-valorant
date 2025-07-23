@@ -17,7 +17,7 @@ header{
   padding: 20px;
 }
 header > h2{
-    color: #5B5B5B;
+    color: #c9c7c7d8;
 }
 header > nav > a{
     margin: 10px;
@@ -52,8 +52,8 @@ h2{
     font-family: "Anton", sans-serif;
     font-weight:100;
     text-align: center;
-    color: #FF6A7A;
-    background-color: #f0959d34;
+    color: #a0edc6fb;
+    background-image:linear-gradient(to right,#FF4655,#0e1b6e);
 }
 main{
     width: 70%;
