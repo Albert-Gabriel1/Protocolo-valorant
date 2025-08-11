@@ -60,7 +60,7 @@ h2{
     background-image:linear-gradient(to right,#FF4655,#0e1b6e);
 }
 main{
-    width: 70%;
+    width: 60%;
     margin: auto;
     background-color: 	#1C252C;
     color: #ECE8E1;
@@ -83,6 +83,5 @@ footer{
 }
 iframe{
     max-width: 100%;
-    display: block;
-    margin: auto;
+    display: block;;
 }
